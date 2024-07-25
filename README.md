@@ -58,5 +58,13 @@ TestNG is a testing framework for Java that is designed to be more flexible and 
 - Log out the second user. 
 
 
+## Allure report:
+
+![180](https://github.com/zafir100100/TestNG-orangehrmdemo/blob/master/assets/allure-report.png)
+
+
 ## Site automated:
   - Link (https://opensource-demo.orangehrmlive.com)
+
+![181](https://github.com/zafir100100/TestNG-orangehrmdemo/blob/master/assets/orangehrmdemo.png)
+
