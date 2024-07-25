@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 06 05:31:40 BDT 2024","Sat Jul 06 05:31:42 BDT 2024","1666","Orange HRM Automation","Employee Profile","testrunner.EmployeeProfileTestRunner","testrunner.EmployeeProfileTestRunner","doLogin","Employee can login",""
+"passed","Sat Jul 06 05:31:27 BDT 2024","Sat Jul 06 05:31:32 BDT 2024","4822","Orange HRM Automation","PIM Automation","testrunner.PIMTestRunner","testrunner.PIMTestRunner","employeeRegistration","Create new employee",""
+"passed","Sat Jul 06 05:31:14 BDT 2024","Sat Jul 06 05:31:16 BDT 2024","1973","Orange HRM Automation","Admin Login","testrunner.LoginTestRunner","testrunner.LoginTestRunner","doLogin","Admin can login successfully",""
+"passed","Sat Jul 06 05:31:12 BDT 2024","Sat Jul 06 05:31:14 BDT 2024","2448","Orange HRM Automation","Admin Login","testrunner.LoginTestRunner","testrunner.LoginTestRunner","loginByWrongCreds","user can not login by wrong creds",""
+"broken","Sat Jul 06 05:32:12 BDT 2024","Sat Jul 06 05:32:12 BDT 2024","1","Orange HRM Automation","Employee Profile","testrunner.EmployeeProfileTestRunner","testrunner.EmployeeProfileTestRunner","quitBrowser","quitBrowser",""
